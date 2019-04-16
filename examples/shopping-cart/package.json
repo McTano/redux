@@ -9,6 +9,7 @@
     "flow-bin": "^0.97.0"
   },
   "dependencies": {
+    "immutable": "^4.0.0-rc.12",
     "prop-types": "^15.6.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
